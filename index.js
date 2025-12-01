@@ -79,6 +79,8 @@ for(let i=0;i<negative.length-1;i++){
 }
 
 console.log(negsto);
+console.log("Helllo");
+
 
 
 let com=[1,4,7,3,5]
